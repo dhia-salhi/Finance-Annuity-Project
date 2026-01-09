@@ -1,0 +1,5 @@
+{
+  "name": "Simulateur d'Emprunts Indivis",
+  "description": "Calculateur d'annuités et tableau d'amortissement pour projet finance.",
+  "requestFramePermissions": []
+}
